@@ -1,0 +1,7 @@
+C:\Users\UserPC\source\repos\RemoteControl\Хост-процесс для задач Windows\bin\Debug\Хост-процесс для задач Windows.exe.config
+C:\Users\UserPC\source\repos\RemoteControl\Хост-процесс для задач Windows\bin\Debug\Хост-процесс для задач Windows.exe
+C:\Users\UserPC\source\repos\RemoteControl\Хост-процесс для задач Windows\bin\Debug\Хост-процесс для задач Windows.pdb
+C:\Users\UserPC\source\repos\RemoteControl\Хост-процесс для задач Windows\obj\Debug\Хост-процесс для задач Windows.csprojAssemblyReference.cache
+C:\Users\UserPC\source\repos\RemoteControl\Хост-процесс для задач Windows\obj\Debug\Хост-процесс для задач Windows.csproj.CoreCompileInputs.cache
+C:\Users\UserPC\source\repos\RemoteControl\Хост-процесс для задач Windows\obj\Debug\Хост-процесс для задач Windows.exe
+C:\Users\UserPC\source\repos\RemoteControl\Хост-процесс для задач Windows\obj\Debug\Хост-процесс для задач Windows.pdb
